@@ -1,7 +1,7 @@
 I have built a stopwatch web application using HTML, CSS, and JavaScript. The HTML structures the elements of the application, while the CSS enhances its visual appeal. The JavaScript implementation includes functions for starting, pausing, and resetting the stopwatch, as well as for tracking and displaying lap times.
 
 
-This allows users to accurately measure and record time intervals. You can access the live website through this.
+This allows users to accurately measure and record time intervals. You can access the live website through this link: https://imaginative-manatee-ad33a7.netlify.app/
 
 
 Includes the following features:
